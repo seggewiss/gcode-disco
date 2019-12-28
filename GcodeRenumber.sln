@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GcodeRenumber", "GcodeRenumber.csproj", "{1137EFFC-4F83-4151-91CE-2A2E46F3961F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{BDAFFFBE-A6A0-4F41-8CB1-EE4488BF56F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1137EFFC-4F83-4151-91CE-2A2E46F3961F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1137EFFC-4F83-4151-91CE-2A2E46F3961F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1137EFFC-4F83-4151-91CE-2A2E46F3961F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1137EFFC-4F83-4151-91CE-2A2E46F3961F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDAFFFBE-A6A0-4F41-8CB1-EE4488BF56F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDAFFFBE-A6A0-4F41-8CB1-EE4488BF56F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDAFFFBE-A6A0-4F41-8CB1-EE4488BF56F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDAFFFBE-A6A0-4F41-8CB1-EE4488BF56F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
